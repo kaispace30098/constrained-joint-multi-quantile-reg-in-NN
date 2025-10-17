@@ -1,0 +1,21 @@
+[project]
+name = "constrained-joint-multi-quantile-reg-in-nn"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Tom",email = "Tom.Chang@azed.gov"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas (>=2.3.3,<3.0.0)",
+    "scipy (>=1.16.2,<2.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "constrained_joint_multi_quantile_reg_in_nn", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
