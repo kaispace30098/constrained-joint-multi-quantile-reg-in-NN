@@ -1,4 +1,4 @@
-X,Y actual,10% Quantile: y = -0.024000x + 11.220000,difference for y actual is above y pred-10%,15% Quantile: y = -0.125000x  + 21.250000,difference for y actual is above y pred-15%,Quantile Cross By,,,
+X,Y actual,10% Quantile: y = -0.025000x + 11.250000,difference for y actual is above y pred-10%,15% Quantile: y = -0.125000x  + 21.250000,difference for y actual is above y pred-15%,Quantile Cross By,,,
 10,10,11,-1,20,-10,-9,,,
 10,11,11,0,19.875,-8.875,-8.875,,,
 10,20,11,9,18.75,1.25,-7.75,,,
