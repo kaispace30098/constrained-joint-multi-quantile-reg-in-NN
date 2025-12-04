@@ -4,7 +4,7 @@ import torch.optim as optim
 import numpy as np
 import random
 import os
-
+# I Keep this file because it shows magically even shared layer can have some kind of knowledge to avoid crossing!
 # --- SET RANDOM SEEDS FOR REPRODUCIBILITY ---
 def set_seed(seed_value=42):
     """Sets seeds for reproducibility across torch, numpy, and python built-in random."""
